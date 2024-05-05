@@ -12,7 +12,7 @@
 
 </br>
 
-## ⚒Tech Stack
+## ⚒Tech stack
 
 ##### Languages
 
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40px" alt="notion logo"  />
 </div>
 
-##### Version Control
+##### Version control
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" / />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" / />
@@ -47,7 +47,7 @@
 </div>
 </br></br>
 
-## 📬Reach me out at
+## 📬Reach me out
 <div align="left">
   <a href="https://www.linkedin.com/in/shiravinograd/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo"  />
@@ -60,7 +60,7 @@
 </div>
 
 </br></br>
-<h2>📊Github Stats </h2>
+<h2>📊Github stats </h2>
 
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirawin&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
