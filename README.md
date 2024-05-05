@@ -9,9 +9,6 @@
   <p>you'll often find me immersed in the world of code. 💻</p>
 </div>
 
-
-</br>
-
 ## ⚒Tech stack
 
 ##### Languages
@@ -45,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" / />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Apache_Subversion_logo.svg/1200px-Apache_Subversion_logo.svg.png" width="40px" />
 </div>
-</br></br>
+</br>
 
 ## 📬Reach me out
 <div align="left">
@@ -59,7 +56,7 @@
 
 </div>
 
-</br></br>
+</br>
 <h2>📊Github stats </h2>
 
 <p>
