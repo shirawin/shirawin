@@ -1,9 +1,14 @@
 ## 👩‍💻About me
+<div>
+  <p>Hey there! 👋 I'm @shirawin (Shira Vinograd) ,</p>
+  <p>a passionate software developer 👩🏻‍💻 on a mission to turn ideas into digital reality ✨. </p>
+  <p>With a keyboard as my paintbrush 🎨 and code as my canvas,</p>
+  <p>🖼 I thrive on crafting elegant solutions to real-world problems.🌐</p>
+  <p>Whether it's building web apps, tinkering with algorithms🧐, </p>
+  <p>or simply geeking out over the latest tech trends💫,</p>
+  <p>you'll often find me immersed in the world of code. 💻</p>
+</div>
 
-Hey there! 👋 I'm @shirawin (Shira Vinograd) , a passionate software developer 👩🏻‍💻 on a mission to turn ideas into digital reality ✨. 
-With a keyboard as my paintbrush 🎨 and code as my canvas, 🖼 I thrive on crafting elegant solutions to real-world problems.🌐
-Whether it's building web apps, tinkering with algorithms🧐, or simply geeking out over the latest tech trends💫,
-you'll often find me immersed in the world of code. 💻
 
 </br>
 
