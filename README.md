@@ -54,6 +54,9 @@
   <a href="https://www.linkedin.com/in/shiravinograd/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo"  />
   </a>
+    <a href="shv1891@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 </div>
