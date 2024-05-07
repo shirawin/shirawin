@@ -1,4 +1,4 @@
-## 👩‍💻About me
+## 👩‍💻About Me
 <div>
   <p>Hey there! 👋 I'm @shirawin (Shira Vinograd) ,</p>
   <p>a passionate software developer 👩🏻‍💻 on a mission to turn ideas into digital reality ✨. </p>
@@ -9,7 +9,7 @@
   <p>you'll often find me immersed in the world of code. 💻</p>
 </div>
 
-## ⚒Tech stack
+## ⚒Tech Stack
 
 ##### Languages
 
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40px" alt="notion logo"  />
 </div>
 
-##### Version control
+##### Version Control
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" / />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" / />
@@ -44,7 +44,7 @@
 </div>
 </br>
 
-## 📬Reach me out
+## 📬Reach Me Out
 <div align="left">
   <a href="https://www.linkedin.com/in/shiravinograd/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" alt="linkedin logo"  />
@@ -57,7 +57,7 @@
 </div>
 
 </br>
-<h2>📊Github stats </h2>
+<h2>📊Github Stats </h2>
 
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirawin&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
