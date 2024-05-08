@@ -1,4 +1,4 @@
-## 👩‍💻About Me
+## 👩🏻‍💻About Me
 <div>
   <p>Hey there! 👋 I'm @shirawin (Shira Vinograd) ,</p>
   <p>a passionate software developer 👩🏻‍💻 on a mission to turn ideas into digital reality ✨. </p>
